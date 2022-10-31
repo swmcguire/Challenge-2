@@ -1,0 +1,110 @@
+body{
+    background-color:grey;
+}
+
+.header {
+    margin: 10px;
+    background-color: blue;  
+    padding: 20px;
+}
+
+.header h1 {
+    color: white;
+    font-size: 30px;
+    display: inline-block;
+}
+
+.header nav{
+    margin-right: 20px;
+    padding-top: 15px; 
+    float: right; 
+    font-size: 20px;
+
+}
+
+.header nav ul{
+    list-style-type: none;
+    text-align: right;
+}
+
+.header nav ul li{
+    font-size: 20px;  
+    display: inline-block;  
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a{
+    color:white;
+
+}
+
+.hero {
+    height: 500px;
+    width: 100%;
+    margin-bottom: 25px;
+    margin-left: 11px;
+    background-image: url("../images/Wedding.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.section{
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+ .text-size {
+        font-size: 15px;
+        text-align: left;
+    
+}
+
+.contact{
+    list-style-type: none;
+    text-align: center;
+    
+}
+
+.contact li{
+    display: inline-block;
+}
+
+
+
+
+footer {
+    margin: 10px;
+    background-color: blue;
+    padding: 20px;
+
+}
+
+    .footer h1 {
+    color: white;
+    font-size: 20px;
+    display: inline-block;
+    text-align: center;
+}
+
+.footer ul{
+  align-content: center;
+}
+
+.footer ul{
+    list-style-type: none;
+    text-align: center;
+}
+
+.footer ul li{
+    font-size: 20px;  
+    display: inline-block;  
+    color: white;
+}
+
+a:link{
+    text-decoration: none;
+}
