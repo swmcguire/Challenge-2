@@ -6,9 +6,7 @@ The goal of this challenge is to create a portfolio site that highlights the wor
 
 This project is just a start as we only have two projects completed.  However, as the course goes on, the portfolio site will be updated with new skillsets that I have acquired.
 
-I look forward to updating my portfolio on an ongoing basis to keep my projects up-to-date as well as make modifications to the overall site design and CSS.
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+I look forward to updating my portfolio on an ongoing basis to keep my projects up-to-date as well as make modifications to the overall site design, CSS and JavaScript.
 
 ## Installation
 
@@ -44,4 +42,3 @@ The above copyright notice and this permission notice shall be included in all c
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ---
-
