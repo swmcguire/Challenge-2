@@ -16,9 +16,7 @@ Once there please take a look at my book of work and see what you think.
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
+The usage of the website is to display my current work and ongoing work.  This will eventually grow into a more robust website showcasing all my work and morph into a cleaner more functional site highlighting all of my newfound skills.
 
 ![Website-Mockup](assets/images/Website-MockUp.png)
 
